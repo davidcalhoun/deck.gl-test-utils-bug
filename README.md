@@ -1,4 +1,4 @@
-# test-utils-test
+# @deck.gl/test-utils minimal reproduction of "Failed to created device" error
 
 This is a minimal reproduction of an error seen when using `@deck.gl/test-utils`:
 
